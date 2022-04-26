@@ -1,4 +1,7 @@
 # API specification
+app-config:
+  org-id: b0beec90-c6cc-4c36-8f7c-ef1f8f91253b
+  app-name: finaltest-connect-case-papi
 api:
   name: "${api.name}"
   version: "${project.version}"
