@@ -45,7 +45,7 @@ sfdc-sys-api:
   connection-idle-timeout: "3000"
   http-reconnection-attempts: "2"
   #Replace with respective application hostname
-  host: "finaltest-connect-jira-sapi-dev.us-e2.cloudhub.io"
+  host: "finaltest-connect-salesforce-sapi-dev.us-e2.cloudhub.io"
   
 # JIRA System API Configuration
 jira-sys-api: 
